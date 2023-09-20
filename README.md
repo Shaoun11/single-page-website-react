@@ -1,8 +1,35 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+- Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Topic: Explore the basics of react router
+
+
+- ইন্সটল - 
+
+- npm i react-router-dom
+
+- প্রোজেক্ট সেটাপ করতে যা যা প্রয়োজন - 
+
+ ১। createBrowserRouter()
+২। <RouterProvider/> 
+
+- রাউট নেভিগেট - 
+
+১। <Link>
+2.<NavLink>
+
+- এপিয়াই থেকে ডাটা ফেচ-
+১। loader
+২।dynamic routes এর loader function এর প্যারামিটারে params
+
+- ইউজফুল হুকস - 
+১। useParams()
+২। useLoaderData()
+৩। useNavigation()
+৪।useNavigate() 
+৫। useLocation ()
+
+
