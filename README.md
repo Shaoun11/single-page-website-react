@@ -9,11 +9,11 @@
 
 - ইন্সটল - 
 
-- npm i react-router-dom
+ npm i react-router-dom
 
 - প্রোজেক্ট সেটাপ করতে যা যা প্রয়োজন - 
 
- ১। createBrowserRouter()
+১। createBrowserRouter()
 ২। <RouterProvider/> 
 
 - রাউট নেভিগেট - 
@@ -25,7 +25,7 @@
 ১। loader
 ২।dynamic routes এর loader function এর প্যারামিটারে params
 
-- ইউজফুল হুকস - 
+ইউজফুল হুকস - 
 ১। useParams()
 ২। useLoaderData()
 ৩। useNavigation()
